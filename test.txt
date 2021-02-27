@@ -11,3 +11,8 @@ You can create a new text
 file in Total Commander 
 by pressing SHFT + F4 and 
 
+Create New File Shortcut - Total Commander - ghisler.ch
+4 posts
+Aug 20, 2007
+"Create new empty file" function - Total Commander ...
+15 posts
